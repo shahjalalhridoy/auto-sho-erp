@@ -1,9 +1,8 @@
-#FILES 
-<h2>Shah Jalal</h2>
+<h2>Md. Shah Jalal Hridoy</h2>
 
 [www.imjalal.com](http://imjalal.com/)
 
-<h2>My Services</h2> 
+<h3>My Services</h3> 
 - eCommerce
 - Custom ERP
 - Web Development
