@@ -3,8 +3,8 @@
 [www.imjalal.com](http://imjalal.com/)
 
 <h3>My Services</h3> 
-- eCommerce
-- Custom ERP
-- Web Development
-- Mobile Application
-- Custom Software
+- eCommerce <br>
+- Custom ERP <br>
+- Web Development <br>
+- Mobile Application <br>
+- Custom Software <br>
